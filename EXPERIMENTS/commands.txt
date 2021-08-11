@@ -1,0 +1,15 @@
+c,u,ratings_100users.csv
+
+c,m,movies.csv
+
+a,u,apriori_100users_21_5.csv,21,5
+
+a,u,apriori_100users_22_5.csv,22,5
+
+a,u,apriori_100users_22_2.csv,22,2
+
+s,u,son_100users_22_5_50.csv,22,5,50
+
+s,u,son_100users_22_5_50.csv,24,3,50
+
+s,u,son_100users_22_5_50.csv,24,3,34
